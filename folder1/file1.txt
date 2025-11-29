@@ -1,2 +1,0 @@
-Hello Sonam
-This is learning git first file
